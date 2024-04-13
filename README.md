@@ -1,2 +1,0 @@
-# Greedy
-Cmd algorithm tutoring
